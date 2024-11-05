@@ -42,7 +42,6 @@ In the future, we plan to improve the zk-proof mechanisms to make them more effi
 - **Key Takeaways**: We learned how to effectively combine federated learning with zero-knowledge (zk) proofs to enhance privacy and security. Optimizing zk mechanisms for efficiency was essential for smooth model training.
 
 ## Project Links 
-
-
+github link: https://github.com/DarkMacician/IG2024
 ## Video Demo 
 
