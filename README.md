@@ -44,4 +44,4 @@ In the future, we plan to improve the zk-proof mechanisms to make them more effi
 ## Project Links 
 github link: https://github.com/DarkMacician/IG2024
 ## Video Demo 
-
+https://drive.google.com/file/d/1uOwAvyNK5IKmB_BRHj-b-ktfb5J_rALb/view?usp=sharing
