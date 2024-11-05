@@ -1,0 +1,20 @@
+<changelist name="Uncommitted_changes_before_Update_at_11_5_2024_5_18_PM_[Changes]" date="1730801929568" recycled="false" toDelete="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_5_2024_5_18_PM_[Changes]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Update at 11/5/2024 5:18 PM [Changes]" />
+  <binary>
+    <option name="AFTER_PATH" value="best_model.pth" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_5_2024_5_18_PM_[Changes]/best_model.pth" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="network.onnx" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_5_2024_5_18_PM_[Changes]/network.onnx" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="network.compiled" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_5_2024_5_18_PM_[Changes]/network.compiled" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="test.vk" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_5_2024_5_18_PM_[Changes]/test.vk" />
+  </binary>
+</changelist>
