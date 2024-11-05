@@ -28,8 +28,8 @@ This approach enhances data privacy by allowing secure verification without dire
 ## Technical Approach
 
 - **Components**:
-  - [✓] ZK Circuits
-  - [✓] Machine Learning (ML)
+  - ZK Circuits
+  - Machine Learning (ML)
 
 ## What do you plan to achieve with your project?
 
