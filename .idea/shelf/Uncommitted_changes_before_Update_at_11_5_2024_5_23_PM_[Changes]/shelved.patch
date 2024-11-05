@@ -1,0 +1,92 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"214cff7c-1712-4868-8343-2e7bf13b6306\" name=\"Changes\" comment=\"\">\r\n      <change afterPath=\"$PROJECT_DIR$/verify.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/data.json\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/data_making.py\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/main.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/main.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/make_circom.py\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/model.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/model.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/neural_network.circom\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/save_W.py\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/setup_for_zk.py\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/test.py\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/weights_biases.json\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/witness.json\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/zk.py\" beforeDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {\r\n    &quot;state&quot;: &quot;OPEN&quot;,\r\n    &quot;assignee&quot;: &quot;DarkMacician&quot;\r\n  }\r\n}</component>\r\n  <component name=\"GithubPullRequestsUISettings\">{\r\n  &quot;selectedUrlAndAccountId&quot;: {\r\n    &quot;url&quot;: &quot;https://github.com/DarkMacician/IG2024.git&quot;,\r\n    &quot;accountId&quot;: &quot;9d1ba861-691a-45f8-b0e2-82718b8f2097&quot;\r\n  }\r\n}</component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 4\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2nv5THm3r3JpLh5sidD8a8FMAMt\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"Python.a.executor\": \"Run\",\r\n    \"Python.ezkl_testing.executor\": \"Run\",\r\n    \"Python.main.executor\": \"Run\",\r\n    \"Python.model.executor\": \"Run\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"git-widget-placeholder\": \"main\",\r\n    \"last_opened_file_path\": \"D:/IG2024\"\r\n  }\r\n}]]></component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-python-sdk-0e3be3396995-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23339.19\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"214cff7c-1712-4868-8343-2e7bf13b6306\" name=\"Changes\" comment=\"\" />\r\n      <created>1729840714873</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1729840714873</updated>\r\n    </task>\r\n    <servers />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 91b3b97c34a217e12daf3d06038c9c0ac1fcb5b5)
++++ b/.idea/workspace.xml	(date 1730802006957)
+@@ -4,21 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="214cff7c-1712-4868-8343-2e7bf13b6306" name="Changes" comment="">
+-      <change afterPath="$PROJECT_DIR$/verify.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/data.json" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/data_making.py" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/make_circom.py" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/model.py" beforeDir="false" afterPath="$PROJECT_DIR$/model.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/neural_network.circom" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/save_W.py" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/setup_for_zk.py" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/weights_biases.json" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/witness.json" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/zk.py" beforeDir="false" />
+-    </list>
++    <list default="true" id="214cff7c-1712-4868-8343-2e7bf13b6306" name="Changes" comment="final update" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -32,6 +18,12 @@
+     </option>
+   </component>
+   <component name="Git.Settings">
++    <option name="PREVIOUS_COMMIT_AUTHORS">
++      <list>
++        <option value="DaemonTagaryen &lt;162531220+darkmacician@users.noreply.github.com&gt;" />
++      </list>
++    </option>
++    <option name="PUSH_AUTO_UPDATE" value="true" />
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+   <component name="GitHubPullRequestSearchHistory">{
+@@ -50,6 +42,7 @@
+   &quot;associatedIndex&quot;: 4
+ }</component>
+   <component name="ProjectId" id="2nv5THm3r3JpLh5sidD8a8FMAMt" />
++  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+   <component name="ProjectViewState">
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+@@ -60,6 +53,7 @@
+     "Python.ezkl_testing.executor": "Run",
+     "Python.main.executor": "Run",
+     "Python.model.executor": "Run",
++    "Python.verify.executor": "Run",
+     "RunOnceActivity.ShowReadmeOnStart": "true",
+     "git-widget-placeholder": "main",
+     "last_opened_file_path": "D:/IG2024"
+@@ -81,6 +75,28 @@
+       <option name="presentableId" value="Default" />
+       <updated>1729840714873</updated>
+     </task>
++    <task id="LOCAL-00001" summary="final update">
++      <option name="closed" value="true" />
++      <created>1730801912823</created>
++      <option name="number" value="00001" />
++      <option name="presentableId" value="LOCAL-00001" />
++      <option name="project" value="LOCAL" />
++      <updated>1730801912823</updated>
++    </task>
++    <task id="LOCAL-00002" summary="final update">
++      <option name="closed" value="true" />
++      <created>1730801981471</created>
++      <option name="number" value="00002" />
++      <option name="presentableId" value="LOCAL-00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1730801981471</updated>
++    </task>
++    <option name="localTasksCounter" value="3" />
+     <servers />
+   </component>
++  <component name="VcsManagerConfiguration">
++    <MESSAGE value="Add files via upload" />
++    <MESSAGE value="final update" />
++    <option name="LAST_COMMIT_MESSAGE" value="final update" />
++  </component>
+ </project>
+\ No newline at end of file
