@@ -7,19 +7,19 @@ This approach enhances data privacy by allowing secure verification without dire
 
 - **Project Members:**
 
-- **Name**: Nguyen Hoai Duy
+- ***Name***: Nguyen Hoai Duy
   - **Discord Username**: nguyenhoaiduy0
   - **Devfolio Username**: nguyenhoaiduy0
   - **GitHub Username**: DarkMacician
   - **Role**: Leader
 
-- **Name**: Huynh Van Dong
+- ***Name***: Huynh Van Dong
     - **Discord Username**: donghuynh0
     - **Devfolio Username**: donghuynh0
     - **GitHub Username**: donghuynh0
     - **Role**: Member
       
-- **Name**: Vo Huu Nhan 
+- ***Name***: Vo Huu Nhan 
   - **Discord Username**: nhanvp
   - **Devfolio Username**: nhanvp
   - **GitHub Username**: louisdevzz
